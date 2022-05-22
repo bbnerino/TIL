@@ -1,6 +1,6 @@
 # flexbox
 
-`display : flex` 로   flexible 하게 만들기
+`display : flex` 로   flexible 하게 만들기!
 
 # justify-content
 
